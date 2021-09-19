@@ -1,0 +1,26 @@
+img{
+    width: 410.7px;
+    height: 365.7px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+button{
+    margin: 5px;
+    font-weight: bolder;
+    font-family: 'Nanum Brush Script', cursive;
+    font-size: x-large;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+p{
+    font-weight: normal;
+    font-size: xx-large;
+    font-family: 'Fleur De Leah', cursive;
+    display: none;
+}
+
+body{
+    text-align: center;
+}
